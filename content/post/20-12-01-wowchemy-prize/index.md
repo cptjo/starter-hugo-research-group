@@ -1,9 +1,9 @@
 ---
-title: Richard Lay Wins First Place in the Wowchemy Prize
+title: Jen Donovan Wins First Place in the Wowchemy Prize
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Jen Donovan for winning first place in the Wowchemy Prize.
 
 <!--more-->
 
